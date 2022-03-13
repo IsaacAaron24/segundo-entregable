@@ -62,13 +62,6 @@
   margin: 10px;
 }
 
-.button::hover{
-  background-color: #20e2d7;
-  box-shadow: 0 0 10px #20e2d7, 0 0 20px #20e2d7, 0 0 20px #20e2d7;
-  color: #434343;
-  transform: translate(0, -6px);
-}
-
 .Des{
   margin: 10px;
   text-align: center;
